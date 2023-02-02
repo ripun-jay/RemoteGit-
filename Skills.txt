@@ -1,0 +1,25 @@
+Data Scientist:-
+	Python
+	SQL
+	numpy
+	pandas
+	maplotlib
+	Scipy
+	Scikit-learn
+	Karas
+	Tesorflow
+	pytourch
+
+
+Prominant skills:
+	Working with files
+		.txt
+		.csv
+	DSA
+	GIT
+
+
+Other Skills:
+	Manim
+	turtal
+	
