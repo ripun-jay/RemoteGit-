@@ -1,11 +1,17 @@
+Designation:-
+
 Data Scientist
 SQL devloper
 Machine learning Engineer
 CCE- other
 
-Location:
+Location:-
+
 Ahemadabad
 Pune
 WFH
 
-Company:
+Company:-
+
+
+DATE:-
